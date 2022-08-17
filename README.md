@@ -1,7 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ![netflixclonegithub-min](https://user-images.githubusercontent.com/100989693/185180090-dcb5c75f-670f-495e-a613-48ddf53fa6ff.png)
 
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
